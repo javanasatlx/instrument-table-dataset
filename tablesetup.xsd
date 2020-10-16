@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="NoscoTrainerTableSetupResult" type="NoscoTrainerTableSetupResultType"> </xs:element>
+    <xs:complexType name="NoscoTrainerTableSetupResultType">
+        <xs:sequence>
+            <xs:element name="SchemaInformation" type="SchemaInformationType"/>
+            <xs:element name="Content" type="ContentType"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="SchemaInformationType">
+        <xs:sequence>
+            <xs:element name="SchemaVersion" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="ContentType">
+        <xs:sequence>
+            <xs:element name="PersonsName" type="xs:string"/>
+            <xs:element name="TableConfiguration" type="TableConfigurationType"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="TableConfigurationType">
+        <xs:sequence>
+            <xs:element name="InstrumentPosition" type="InstrumentPositionType" minOccurs="1" maxOccurs="unbounded">
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="InstrumentPositionType">
+        <xs:sequence>
+            <xs:element name="InstrumentName" type="xs:string"/>
+            <xs:element name="InstrumentID" type="xs:long"/>
+            <xs:element name="X" type="xs:int"/>
+            <xs:element name="Y" type="xs:int"/>
+            <xs:element name="Angle" type="xs:double"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

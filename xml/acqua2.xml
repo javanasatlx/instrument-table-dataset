@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NoscoTrainerTableSetupResult>
+    <SchemaInformation>
+        <SchemaVersion>1.0</SchemaVersion>
+    </SchemaInformation>
+    <Content>
+        <PersonsName>acqua2</PersonsName>
+        <TableConfiguration>
+            <InstrumentPosition>
+                <InstrumentName>Nasal Dressing Forceps, bayonet-shaped</InstrumentName>
+                <InstrumentID>10</InstrumentID>
+                <X>238</X>
+                <Y>819</Y>
+                <Angle>348.8716513324741</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Bone Punch, size 3 mm</InstrumentName>
+                <InstrumentID>34</InstrumentID>
+                <X>1131</X>
+                <Y>760</Y>
+                <Angle>352.18874977836316</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Antrum Cannula, short curved</InstrumentName>
+                <InstrumentID>26</InstrumentID>
+                <X>751</X>
+                <Y>324</Y>
+                <Angle>82.40820541043537</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Nasal Forceps, straight, size 3</InstrumentName>
+                <InstrumentID>14</InstrumentID>
+                <X>511</X>
+                <Y>867</Y>
+                <Angle>358.4471174190258</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Nasal Speculum, for adults</InstrumentName>
+                <InstrumentID>5</InstrumentID>
+                <X>1184</X>
+                <Y>184</Y>
+                <Angle>357.0747045119743</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Antrum Cannula, long curved, outer diameter 2.5 mm</InstrumentName>
+                <InstrumentID>24</InstrumentID>
+                <X>766</X>
+                <Y>362</Y>
+                <Angle>78.32709651480505</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Ear Forceps, bayonet-shaped</InstrumentName>
+                <InstrumentID>2</InstrumentID>
+                <X>1118</X>
+                <Y>188</Y>
+                <Angle>353.9010807643977</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Scissors, extra delicate</InstrumentName>
+                <InstrumentID>19</InstrumentID>
+                <X>262</X>
+                <Y>944</Y>
+                <Angle>353.90990840057765</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Suction Tube, straight, type A</InstrumentName>
+                <InstrumentID>3</InstrumentID>
+                <X>768</X>
+                <Y>204</Y>
+                <Angle>101.16785872977144</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Suction Tube, straight</InstrumentName>
+                <InstrumentID>22</InstrumentID>
+                <X>740</X>
+                <Y>269</Y>
+                <Angle>95.30003421323411</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Flushing Syringe</InstrumentName>
+                <InstrumentID>1</InstrumentID>
+                <X>720</X>
+                <Y>142</Y>
+                <Angle>268.09046710580793</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Elevator, double-ended, length 20 cm</InstrumentName>
+                <InstrumentID>18</InstrumentID>
+                <X>148</X>
+                <Y>865</Y>
+                <Angle>0.0025613022841145736</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Dressing and Sponge Holding Forceps</InstrumentName>
+                <InstrumentID>39</InstrumentID>
+                <X>1018</X>
+                <Y>200</Y>
+                <Angle>359.9570476650484</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Towel Forceps</InstrumentName>
+                <InstrumentID>43</InstrumentID>
+                <X>1333</X>
+                <Y>191</Y>
+                <Angle>1.6201156417634412</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Cup Medicine, 100 ccm</InstrumentName>
+                <InstrumentID>46</InstrumentID>
+                <X>425</X>
+                <Y>111</Y>
+                <Angle>357.28280048400694</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Cup Medicine, 25 ccm</InstrumentName>
+                <InstrumentID>44</InstrumentID>
+                <X>255</X>
+                <Y>82</Y>
+                <Angle>2.73879870899939</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Scissors, curved, sharp/blunt</InstrumentName>
+                <InstrumentID>41</InstrumentID>
+                <X>1491</X>
+                <Y>196</Y>
+                <Angle>358.5733733720353</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Bipolar Needle</InstrumentName>
+                <InstrumentID>48</InstrumentID>
+                <X>1405</X>
+                <Y>802</Y>
+                <Angle>172.70959771934844</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Bipolar Coagulation Forceps</InstrumentName>
+                <InstrumentID>49</InstrumentID>
+                <X>1327</X>
+                <Y>820</Y>
+                <Angle>357.6693433006966</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Nasal Forceps, straight</InstrumentName>
+                <InstrumentID>51</InstrumentID>
+                <X>405</X>
+                <Y>830</Y>
+                <Angle>359.11744260256467</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Nasal Cutting Forceps, 45° upturned</InstrumentName>
+                <InstrumentID>52</InstrumentID>
+                <X>338</X>
+                <Y>851</Y>
+                <Angle>0.06804027677847897</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Bipolar High Frequency Cord</InstrumentName>
+                <InstrumentID>53</InstrumentID>
+                <X>1391</X>
+                <Y>592</Y>
+                <Angle>357.7601350835087</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Navigation Probe</InstrumentName>
+                <InstrumentID>54</InstrumentID>
+                <X>79</X>
+                <Y>794</Y>
+                <Angle>2.6558136143791056</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Antrum Cannula, long curved, outer diameter 3 mm</InstrumentName>
+                <InstrumentID>25</InstrumentID>
+                <X>787</X>
+                <Y>391</Y>
+                <Angle>94.47601159357752</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Nasal Speculum, right blade shortened</InstrumentName>
+                <InstrumentID>8</InstrumentID>
+                <X>71</X>
+                <Y>244</Y>
+                <Angle>1.1801421221724067</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Nasal Speculum, left blade shortened</InstrumentName>
+                <InstrumentID>9</InstrumentID>
+                <X>166</X>
+                <Y>246</Y>
+                <Angle>0.9114437481990844</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Punch, circular cut, 120°</InstrumentName>
+                <InstrumentID>29</InstrumentID>
+                <X>969</X>
+                <Y>812</Y>
+                <Angle>347.0547461554775</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Punch, circular cutting, upturned</InstrumentName>
+                <InstrumentID>30</InstrumentID>
+                <X>921</X>
+                <Y>806</Y>
+                <Angle>345.53716107718293</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Antrum Grasping Forceps</InstrumentName>
+                <InstrumentID>33</InstrumentID>
+                <X>787</X>
+                <Y>830</Y>
+                <Angle>353.5362186233629</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Antrum Punch</InstrumentName>
+                <InstrumentID>16</InstrumentID>
+                <X>777</X>
+                <Y>827</Y>
+                <Angle>357.3059618159822</Angle>
+            </InstrumentPosition>
+            <InstrumentPosition>
+                <InstrumentName>Nasal Forceps, angled</InstrumentName>
+                <InstrumentID>15</InstrumentID>
+                <X>640</X>
+                <Y>847</Y>
+                <Angle>358.9479173344623</Angle>
+            </InstrumentPosition>
+        </TableConfiguration>
+    </Content>
+</NoscoTrainerTableSetupResult>
