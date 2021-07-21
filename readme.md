@@ -1,4 +1,4 @@
-<h1>instrument-table-study-dataset</h1>
+<h1>instrument-table-dataset</h1>
 
 <h4>What is this?</h4>
 
