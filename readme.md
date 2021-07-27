@@ -14,7 +14,8 @@ Please contact the corresponding author of the publication if you have comments 
 
 - The folder xml holds the raw data for each of the 15 table setups.
 - The folder jpg holds images of the table setups taken from the simulator, as well as a visual legend for the instruments.
-- The file instrumentlist.csv gives an overview of the included instruments and their ids.
+- The file detailed_comparison_results.csv holds a table of all comparison results used in the study.
+- The file instrumentlist.csv gives an overview of the included instruments, their ids and the number of uses in the table setups of the study.
 - the file tablesetup.xsd is the xml schema for the xml raw data. It can be used to generate a parser in your preferred programming language.
 
 For further explanations, please see the publication.
